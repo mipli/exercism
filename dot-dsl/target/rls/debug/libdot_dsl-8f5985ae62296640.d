@@ -1,0 +1,1 @@
+/home/michael/code/exercism/rust/dot-dsl/target/rls/debug/libdot_dsl-8f5985ae62296640.rmeta: /home/michael/code/exercism/rust/dot-dsl/src/lib.rs /home/michael/code/exercism/rust/dot-dsl/tests/dot-dsl.rs

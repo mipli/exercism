@@ -1,0 +1,6 @@
+cargo-features = ["edition"]
+
+[package]
+name = "nucleotide-count"
+version = "0.0.0"
+edition = "2018"

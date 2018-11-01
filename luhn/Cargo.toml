@@ -1,0 +1,6 @@
+cargo-features = ["edition"]
+
+[package]
+name = "luhn"
+version = "0.0.0"
+edition = "2018"
